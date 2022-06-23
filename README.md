@@ -12,7 +12,7 @@ Neste desafio você deverá desenvolver uma homepage para uma marca de café.
 
 - HTML
 - CSS
-- JavaScript15
+- JavaScript
 
 # 🚀 **Techs**
 
